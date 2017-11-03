@@ -1,2 +1,2 @@
 # HelloChat
-仿qq
+仿qq侧滑效果
